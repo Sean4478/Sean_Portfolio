@@ -8,7 +8,7 @@ Data Science Portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/Data_Science_Chart.png)
+![](/images/positions_by_state.png)
 
 
 
